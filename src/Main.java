@@ -20,7 +20,7 @@ public class Main {
         if (phone.equals(expectedPhone)) {
             System.out.println("Успех");
         } else {
-            System.out.println("Неудача!");
+            System.out.println("Неудача!1");
         }
     }
 }
